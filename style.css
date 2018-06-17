@@ -1,0 +1,19 @@
+.jumbotron {
+    text-align: center;
+    background: orange;
+    color: white;
+    width: 960px;
+    margin: auto;
+}
+
+.form {
+    background: white;
+    color: black;
+    width: 960px;
+    margin: auto;
+}
+
+.submit {
+    background: blue;
+    color: white;
+}
